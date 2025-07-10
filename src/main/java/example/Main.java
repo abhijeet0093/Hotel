@@ -1,6 +1,6 @@
-package example;
+package com.example;
 
-import example.service.HotelService;
+import com.example.service.HotelService;
 
 public class Main {
     public static void main(String[] args) {
