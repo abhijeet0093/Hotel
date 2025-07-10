@@ -92,3 +92,6 @@ The `pom.xml` includes:
   <version>42.7.1</version>
 </dependency>
 ```
+## Output 
+
+![WhatsApp Image 2025-07-10 at 19 46 36_74ba84fd](https://github.com/user-attachments/assets/7cfe80cf-1f14-421e-9f01-cd04719ddf5b)
