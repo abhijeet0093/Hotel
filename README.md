@@ -1,13 +1,25 @@
-Here’s a ready-to-use `README.md` file for your **Hotel Management Maven Java project** — including features, setup, and usage instructions. You can copy this into your project folder or let me add it to your ZIP if needed.
+# 🏨 Hotel Management System  
+
+A simple **Java console-based Hotel Management System** using **Maven**, **JDBC**, and **PostgreSQL**.
+
+---
+## Group Name 
+
+ 1. Abhijit Ashok Jadhav
+ 2. Om Bharat Babar
 
 ---
 
-## ✅ `README.md`
+## College Name
 
-```markdown
-# 🏨 Hotel Management System - Java Maven Project
+  Solapur Education Society Solapur
 
-A simple **Java console-based Hotel Management System** using **Maven**, **JDBC**, and **PostgreSQL**.
+  ---
+
+  
+## Description
+
+A simple console-based Hotel Management System built using Java and Maven, designed to simulate hotel room booking and administration. Supports file handling and optionally PostgreSQL database with JDBC.
 
 ---
 
@@ -47,15 +59,7 @@ hotel-management/
 
 ---
 
-## 🚀 How to Run
-
-### 1. Clone the Repo or Download ZIP
-```bash
-git clone https://github.com/yourusername/hotel-management.git
-cd hotel-management
-````
-
-### 2. Configure Database
+## Configure Database
 
 * Make sure PostgreSQL is installed and running
 * Create a database:
@@ -72,7 +76,7 @@ static final String USER = "postgres";
 static final String PASS = "abhi93";
 ```
 
-### 3. Build and Run the App
+## Build and Run the App
 
 ```bash
 mvn clean compile
@@ -92,6 +96,21 @@ The `pom.xml` includes:
   <version>42.7.1</version>
 </dependency>
 ```
+
+## 🖥 Prerequisites
+
+Java 8 or higher
+
+Apache Maven
+
+PostgreSQL (optional, for DB version)
+
+Git (optional)
+
+---
+
 ## Output 
 
 ![WhatsApp Image 2025-07-10 at 19 46 36_74ba84fd](https://github.com/user-attachments/assets/7cfe80cf-1f14-421e-9f01-cd04719ddf5b)
+
+---
